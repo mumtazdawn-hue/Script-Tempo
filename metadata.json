@@ -1,0 +1,6 @@
+{
+  "name": "Creator Script & Video Production Calculator",
+  "description": "Professional video script duration, speaking pace, scene breakdown, and B-roll calculator for creators, podcasters, and video producers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
